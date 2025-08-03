@@ -15,8 +15,7 @@ Since the dataset had **no labels**, unsupervised learning was used to find patt
 
 ### 🔑 Key Steps:
 1. **Data Cleaning & Preprocessing**  
-   - Converted `Residency` to integers  
-   - Removed unnecessary columns  
+   - Converted `Residency` to integers 
    - Prepared the dataset for clustering  
 
 2. **Dimensionality Reduction with PCA**  
